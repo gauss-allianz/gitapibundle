@@ -1,0 +1,6 @@
+services:
+#    ga_git_api.example:
+#        class: GA\Bundle\GitAPIBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
+    ga_git_api.client:
+        class: GA\Bundle\GitAPIBundle\Client

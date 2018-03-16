@@ -1,0 +1,3 @@
+ga_git_api_homepage:
+    path:     /
+    defaults: { _controller: GAGitAPIBundle:Default:index }
